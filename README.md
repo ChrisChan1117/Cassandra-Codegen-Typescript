@@ -1,6 +1,6 @@
 # Cassandra Codegen
 
-Generate TypeScript type definitions from a Cassandra (or ScyllaDB) database, as well as type-safe mappers.
+Generate TypeScript type definitions from a Cassandra (or ScyllaDB) database, as well as type-safe mappers.  
 
 Inspired by [kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen).
 
